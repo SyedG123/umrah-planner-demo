@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-07-22T04:41:03.609567Z",
+  "generatedAt": "2026-07-23T04:45:14.016907Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-07-22T04:41:02.686799",
+      "fetchedAt": "2026-07-23T04:45:12.062209",
       "source": "aviasales",
       "byMonth": {
         "7": [
@@ -35,7 +35,7 @@
             "tier": "fullService",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 40102,
+            "pricePerPerson": 40302,
             "departureDate": "2026-09-07T00:00:00.000",
             "returnDate": "2026-09-28T00:00:00.000"
           }
@@ -66,9 +66,20 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-07-22T04:41:02.934209",
+      "fetchedAt": "2026-07-23T04:45:12.366916",
       "source": "aviasales",
       "byMonth": {
+        "8": [
+          {
+            "airline": "RJ",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 8,
+            "pricePerPerson": 35616,
+            "departureDate": "2026-08-20T00:00:00.000",
+            "returnDate": "2026-08-31T00:00:00.000"
+          }
+        ],
         "9": [
           {
             "airline": "Etihad Airways",
@@ -84,7 +95,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-07-22T04:41:02.998049",
+      "fetchedAt": "2026-07-23T04:45:12.519289",
       "source": "aviasales",
       "byMonth": {
         "7": [
@@ -101,8 +112,26 @@
       }
     },
     {
+      "origin": "kochi",
+      "fetchedAt": "2026-07-23T04:45:13.747098",
+      "source": "aviasales",
+      "byMonth": {
+        "8": [
+          {
+            "airline": "Air India Express",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 8,
+            "pricePerPerson": 57316,
+            "departureDate": "2026-08-30T00:00:00.000",
+            "returnDate": "2026-08-31T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
       "origin": "lucknow",
-      "fetchedAt": "2026-07-22T04:41:03.521625",
+      "fetchedAt": "2026-07-23T04:45:13.896637",
       "source": "aviasales",
       "byMonth": {
         "9": [
