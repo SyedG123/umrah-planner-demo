@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-05T05:07:17.541666Z",
+  "generatedAt": "2026-08-06T04:37:16.006980Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-05T05:07:16.449044",
+      "fetchedAt": "2026-08-06T04:37:14.247962",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -24,7 +24,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 40727,
+            "pricePerPerson": 40811,
             "departureDate": "2026-09-07T00:00:00.000",
             "returnDate": "2026-09-28T00:00:00.000"
           }
@@ -44,20 +44,9 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-05T05:07:16.726101",
+      "fetchedAt": "2026-08-06T04:37:14.515127",
       "source": "aviasales",
       "byMonth": {
-        "8": [
-          {
-            "airline": "Air India",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 8,
-            "pricePerPerson": 38932,
-            "departureDate": "2026-08-05T00:00:00.000",
-            "returnDate": "2026-08-19T00:00:00.000"
-          }
-        ],
         "9": [
           {
             "airline": "RJ",
@@ -71,20 +60,20 @@
         ],
         "10": [
           {
-            "airline": "RJ",
+            "airline": "OV",
             "tier": "fullService",
             "stops": 1,
             "month": 10,
-            "pricePerPerson": 31148,
-            "departureDate": "2026-10-10T00:00:00.000",
-            "returnDate": "2026-10-24T00:00:00.000"
+            "pricePerPerson": 31651,
+            "departureDate": "2026-10-08T00:00:00.000",
+            "returnDate": "2026-10-15T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-05T05:07:16.968376",
+      "fetchedAt": "2026-08-06T04:37:14.868789",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -102,7 +91,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-05T05:07:17.083639",
+      "fetchedAt": "2026-08-06T04:37:15.018255",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -120,7 +109,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-08-05T05:07:17.171087",
+      "fetchedAt": "2026-08-06T04:37:15.269026",
       "source": "aviasales",
       "byMonth": {
         "8": [
