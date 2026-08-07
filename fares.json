@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-06T04:37:16.006980Z",
+  "generatedAt": "2026-08-07T04:06:35.439260Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-06T04:37:14.247962",
+      "fetchedAt": "2026-08-07T04:06:32.681391",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -24,7 +24,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 40811,
+            "pricePerPerson": 42537,
             "departureDate": "2026-09-07T00:00:00.000",
             "returnDate": "2026-09-28T00:00:00.000"
           }
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-06T04:37:14.515127",
+      "fetchedAt": "2026-08-07T04:06:33.004807",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -73,7 +73,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-06T04:37:14.868789",
+      "fetchedAt": "2026-08-07T04:06:33.751509",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -91,7 +91,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-06T04:37:15.018255",
+      "fetchedAt": "2026-08-07T04:06:34.028349",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -109,7 +109,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-08-06T04:37:15.269026",
+      "fetchedAt": "2026-08-07T04:06:34.273385",
       "source": "aviasales",
       "byMonth": {
         "8": [
