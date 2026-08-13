@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-12T03:32:45.094416Z",
+  "generatedAt": "2026-08-13T03:36:04.067958Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-12T03:32:43.649613",
+      "fetchedAt": "2026-08-13T03:36:02.302515",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-12T03:32:44.006487",
+      "fetchedAt": "2026-08-13T03:36:02.724867",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -61,8 +61,37 @@
       }
     },
     {
+      "origin": "hyderabad",
+      "fetchedAt": "2026-08-13T03:36:02.926453",
+      "source": "aviasales",
+      "byMonth": {
+        "8": [
+          {
+            "airline": "OV",
+            "tier": "fullService",
+            "stops": 2,
+            "month": 8,
+            "pricePerPerson": 46213,
+            "departureDate": "2026-08-16T00:00:00.000",
+            "returnDate": "2026-08-17T00:00:00.000"
+          }
+        ],
+        "10": [
+          {
+            "airline": "OV",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 10,
+            "pricePerPerson": 36552,
+            "departureDate": "2026-10-12T00:00:00.000",
+            "returnDate": "2026-10-19T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
       "origin": "chennai",
-      "fetchedAt": "2026-08-12T03:32:44.474348",
+      "fetchedAt": "2026-08-13T03:36:03.129200",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -80,7 +109,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-12T03:32:44.607107",
+      "fetchedAt": "2026-08-13T03:36:03.356415",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -98,7 +127,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-08-12T03:32:44.739676",
+      "fetchedAt": "2026-08-13T03:36:03.567620",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -116,7 +145,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-12T03:32:44.876691",
+      "fetchedAt": "2026-08-13T03:36:03.661576",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -145,7 +174,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-08-12T03:32:45.010520",
+      "fetchedAt": "2026-08-13T03:36:03.859758",
       "source": "aviasales",
       "byMonth": {
         "8": [
