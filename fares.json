@@ -1,23 +1,12 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-13T03:36:04.067958Z",
+  "generatedAt": "2026-08-14T03:33:11.678693Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-13T03:36:02.302515",
+      "fetchedAt": "2026-08-14T03:33:09.978161",
       "source": "aviasales",
       "byMonth": {
-        "8": [
-          {
-            "airline": "Air Arabia",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 8,
-            "pricePerPerson": 50720,
-            "departureDate": "2026-08-29T00:00:00.000",
-            "returnDate": "2026-09-13T00:00:00.000"
-          }
-        ],
         "9": [
           {
             "airline": "Air India",
@@ -33,7 +22,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-13T03:36:02.724867",
+      "fetchedAt": "2026-08-14T03:33:10.383587",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -57,12 +46,100 @@
             "departureDate": "2026-11-04T00:00:00.000",
             "returnDate": "2026-11-18T00:00:00.000"
           }
+        ],
+        "12": [
+          {
+            "airline": "Gulf Air",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 12,
+            "pricePerPerson": 32787,
+            "departureDate": "2026-12-16T00:00:00.000",
+            "returnDate": "2026-12-31T00:00:00.000"
+          }
+        ],
+        "1": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 1,
+            "pricePerPerson": 28190,
+            "departureDate": "2027-01-13T00:00:00.000",
+            "returnDate": "2027-01-28T00:00:00.000"
+          }
+        ],
+        "2": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 2,
+            "pricePerPerson": 30881,
+            "departureDate": "2027-02-02T00:00:00.000",
+            "returnDate": "2027-02-18T00:00:00.000"
+          }
+        ],
+        "3": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 3,
+            "pricePerPerson": 25924,
+            "departureDate": "2027-03-20T00:00:00.000",
+            "returnDate": "2027-04-05T00:00:00.000"
+          }
+        ],
+        "4": [
+          {
+            "airline": "RJ",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 4,
+            "pricePerPerson": 35414,
+            "departureDate": "2027-04-20T00:00:00.000",
+            "returnDate": "2027-04-30T00:00:00.000"
+          }
+        ],
+        "5": [
+          {
+            "airline": "Air India",
+            "tier": "fullService",
+            "stops": 0,
+            "month": 5,
+            "pricePerPerson": 44526,
+            "departureDate": "2027-05-12T00:00:00.000",
+            "returnDate": "2027-05-25T00:00:00.000"
+          }
+        ],
+        "6": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 6,
+            "pricePerPerson": 31683,
+            "departureDate": "2027-06-16T00:00:00.000",
+            "returnDate": "2027-07-01T00:00:00.000"
+          }
+        ],
+        "7": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 7,
+            "pricePerPerson": 31572,
+            "departureDate": "2027-07-05T00:00:00.000",
+            "returnDate": "2027-07-20T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-08-13T03:36:02.926453",
+      "fetchedAt": "2026-08-14T03:33:10.489791",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -91,7 +168,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-13T03:36:03.129200",
+      "fetchedAt": "2026-08-14T03:33:10.700047",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -109,7 +186,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-13T03:36:03.356415",
+      "fetchedAt": "2026-08-14T03:33:10.924164",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -127,25 +204,25 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-08-13T03:36:03.567620",
+      "fetchedAt": "2026-08-14T03:33:11.144808",
       "source": "aviasales",
       "byMonth": {
         "8": [
           {
-            "airline": "QP",
+            "airline": "Etihad Airways",
             "tier": "fullService",
             "stops": 2,
             "month": 8,
-            "pricePerPerson": 61695,
-            "departureDate": "2026-08-21T00:00:00.000",
-            "returnDate": "2026-08-22T00:00:00.000"
+            "pricePerPerson": 72973,
+            "departureDate": "2026-08-19T00:00:00.000",
+            "returnDate": "2026-08-19T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-13T03:36:03.661576",
+      "fetchedAt": "2026-08-14T03:33:11.362584",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -174,7 +251,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-08-13T03:36:03.859758",
+      "fetchedAt": "2026-08-14T03:33:11.471328",
       "source": "aviasales",
       "byMonth": {
         "8": [
