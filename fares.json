@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-17T02:37:20.296864Z",
+  "generatedAt": "2026-08-18T02:32:27.864311Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-17T02:37:18.290016",
+      "fetchedAt": "2026-08-18T02:32:26.876499",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-17T02:37:18.629830",
+      "fetchedAt": "2026-08-18T02:32:27.066577",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -67,6 +67,17 @@
             "pricePerPerson": 49003,
             "departureDate": "2026-08-24T00:00:00.000",
             "returnDate": "2026-08-29T00:00:00.000"
+          }
+        ],
+        "10": [
+          {
+            "airline": "RJ",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 10,
+            "pricePerPerson": 32686,
+            "departureDate": "2026-10-25T00:00:00.000",
+            "returnDate": "2026-12-01T00:00:00.000"
           }
         ],
         "11": [
@@ -172,7 +183,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-08-17T02:37:18.822897",
+      "fetchedAt": "2026-08-18T02:32:27.162676",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -201,7 +212,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-17T02:37:19.335902",
+      "fetchedAt": "2026-08-18T02:32:27.393088",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -219,7 +230,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-17T02:37:19.923847",
+      "fetchedAt": "2026-08-18T02:32:27.669380",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -237,7 +248,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-08-17T02:37:20.106840",
+      "fetchedAt": "2026-08-18T02:32:27.768564",
       "source": "aviasales",
       "byMonth": {
         "9": [
