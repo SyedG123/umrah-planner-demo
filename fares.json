@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-20T02:33:29.239160Z",
+  "generatedAt": "2026-08-21T02:39:36.858178Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-20T02:33:28.375104",
+      "fetchedAt": "2026-08-21T02:39:35.941082",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -66,7 +66,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-20T02:33:28.628116",
+      "fetchedAt": "2026-08-21T02:39:36.127444",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -102,81 +102,15 @@
             "returnDate": "2026-12-01T00:00:00.000"
           }
         ],
-        "12": [
-          {
-            "airline": "Gulf Air",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 12,
-            "pricePerPerson": 32787,
-            "departureDate": "2026-12-16T00:00:00.000",
-            "returnDate": "2026-12-31T00:00:00.000"
-          }
-        ],
-        "1": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 28190,
-            "departureDate": "2027-01-13T00:00:00.000",
-            "returnDate": "2027-01-28T00:00:00.000"
-          }
-        ],
-        "2": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 2,
-            "pricePerPerson": 30881,
-            "departureDate": "2027-02-02T00:00:00.000",
-            "returnDate": "2027-02-18T00:00:00.000"
-          }
-        ],
-        "3": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 3,
-            "pricePerPerson": 25924,
-            "departureDate": "2027-03-20T00:00:00.000",
-            "returnDate": "2027-04-05T00:00:00.000"
-          }
-        ],
-        "4": [
-          {
-            "airline": "RJ",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 4,
-            "pricePerPerson": 35414,
-            "departureDate": "2027-04-20T00:00:00.000",
-            "returnDate": "2027-04-30T00:00:00.000"
-          }
-        ],
-        "5": [
-          {
-            "airline": "Air India",
-            "tier": "fullService",
-            "stops": 0,
-            "month": 5,
-            "pricePerPerson": 44526,
-            "departureDate": "2027-05-12T00:00:00.000",
-            "returnDate": "2027-05-25T00:00:00.000"
-          }
-        ],
         "6": [
           {
             "airline": "Kuwait Airways",
             "tier": "fullService",
             "stops": 1,
             "month": 6,
-            "pricePerPerson": 31683,
-            "departureDate": "2027-06-16T00:00:00.000",
-            "returnDate": "2027-07-01T00:00:00.000"
+            "pricePerPerson": 31775,
+            "departureDate": "2027-06-10T00:00:00.000",
+            "returnDate": "2027-06-25T00:00:00.000"
           }
         ],
         "7": [
@@ -194,7 +128,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-08-20T02:33:28.695558",
+      "fetchedAt": "2026-08-21T02:39:36.226455",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -212,7 +146,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-20T02:33:28.753673",
+      "fetchedAt": "2026-08-21T02:39:36.307690",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -241,9 +175,20 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-20T02:33:29.126656",
+      "fetchedAt": "2026-08-21T02:39:36.722386",
       "source": "aviasales",
       "byMonth": {
+        "8": [
+          {
+            "airline": "Air India",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 8,
+            "pricePerPerson": 51662,
+            "departureDate": "2026-08-26T00:00:00.000",
+            "returnDate": "2026-08-30T00:00:00.000"
+          }
+        ],
         "9": [
           {
             "airline": "IndiGo",
@@ -259,7 +204,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-08-20T02:33:29.181370",
+      "fetchedAt": "2026-08-21T02:39:36.780260",
       "source": "aviasales",
       "byMonth": {
         "8": [
