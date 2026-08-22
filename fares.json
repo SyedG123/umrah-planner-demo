@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-21T02:39:36.858178Z",
+  "generatedAt": "2026-08-22T02:31:37.891224Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-21T02:39:35.941082",
+      "fetchedAt": "2026-08-22T02:31:36.003479",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -66,7 +66,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-21T02:39:36.127444",
+      "fetchedAt": "2026-08-22T02:31:36.254412",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -119,34 +119,16 @@
             "tier": "fullService",
             "stops": 1,
             "month": 7,
-            "pricePerPerson": 31547,
-            "departureDate": "2027-07-08T00:00:00.000",
-            "returnDate": "2027-07-21T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
-      "origin": "hyderabad",
-      "fetchedAt": "2026-08-21T02:39:36.226455",
-      "source": "aviasales",
-      "byMonth": {
-        "8": [
-          {
-            "airline": "OV",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 8,
-            "pricePerPerson": 45903,
-            "departureDate": "2026-08-31T00:00:00.000",
-            "returnDate": "2026-09-01T00:00:00.000"
+            "pricePerPerson": 31744,
+            "departureDate": "2027-07-25T00:00:00.000",
+            "returnDate": "2027-08-10T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-21T02:39:36.307690",
+      "fetchedAt": "2026-08-22T02:31:36.737798",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -175,7 +157,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-21T02:39:36.722386",
+      "fetchedAt": "2026-08-22T02:31:37.488314",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -191,20 +173,20 @@
         ],
         "9": [
           {
-            "airline": "IndiGo",
+            "airline": "Air India Express",
             "tier": "lowCost",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 48216,
-            "departureDate": "2026-09-09T00:00:00.000",
-            "returnDate": "2026-09-10T00:00:00.000"
+            "pricePerPerson": 49841,
+            "departureDate": "2026-09-03T00:00:00.000",
+            "returnDate": "2026-09-04T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-08-21T02:39:36.780260",
+      "fetchedAt": "2026-08-22T02:31:37.662199",
       "source": "aviasales",
       "byMonth": {
         "8": [
