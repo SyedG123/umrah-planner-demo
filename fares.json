@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-24T02:40:58.550930Z",
+  "generatedAt": "2026-08-25T02:34:41.137607Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-24T02:40:57.571074",
+      "fetchedAt": "2026-08-25T02:34:40.097135",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -44,9 +44,20 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-24T02:40:57.819711",
+      "fetchedAt": "2026-08-25T02:34:40.330517",
       "source": "aviasales",
       "byMonth": {
+        "8": [
+          {
+            "airline": "IndiGo",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 8,
+            "pricePerPerson": 43176,
+            "departureDate": "2026-08-31T00:00:00.000",
+            "returnDate": "2026-09-19T00:00:00.000"
+          }
+        ],
         "9": [
           {
             "airline": "RJ",
@@ -64,38 +75,16 @@
             "tier": "fullService",
             "stops": 1,
             "month": 10,
-            "pricePerPerson": 32686,
-            "departureDate": "2026-10-25T00:00:00.000",
-            "returnDate": "2026-12-01T00:00:00.000"
-          }
-        ],
-        "6": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 6,
-            "pricePerPerson": 31775,
-            "departureDate": "2027-06-10T00:00:00.000",
-            "returnDate": "2027-06-25T00:00:00.000"
-          }
-        ],
-        "7": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 7,
-            "pricePerPerson": 31744,
-            "departureDate": "2027-07-25T00:00:00.000",
-            "returnDate": "2027-08-10T00:00:00.000"
+            "pricePerPerson": 33393,
+            "departureDate": "2026-10-06T00:00:00.000",
+            "returnDate": "2026-10-20T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-24T02:40:58.051033",
+      "fetchedAt": "2026-08-25T02:34:40.544192",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -113,7 +102,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-24T02:40:58.112370",
+      "fetchedAt": "2026-08-25T02:34:40.652806",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -131,29 +120,40 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-24T02:40:58.329517",
+      "fetchedAt": "2026-08-25T02:34:40.885704",
       "source": "aviasales",
       "byMonth": {
         "8": [
           {
-            "airline": "Air India",
-            "tier": "fullService",
+            "airline": "IndiGo",
+            "tier": "lowCost",
             "stops": 1,
             "month": 8,
-            "pricePerPerson": 51662,
-            "departureDate": "2026-08-26T00:00:00.000",
-            "returnDate": "2026-08-30T00:00:00.000"
+            "pricePerPerson": 50877,
+            "departureDate": "2026-08-31T00:00:00.000",
+            "returnDate": "2026-09-01T00:00:00.000"
           }
         ],
         "9": [
           {
-            "airline": "Air India Express",
+            "airline": "flynas",
             "tier": "lowCost",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 49841,
-            "departureDate": "2026-09-03T00:00:00.000",
-            "returnDate": "2026-09-04T00:00:00.000"
+            "pricePerPerson": 52019,
+            "departureDate": "2026-09-13T00:00:00.000",
+            "returnDate": "2026-09-13T00:00:00.000"
+          }
+        ],
+        "2": [
+          {
+            "airline": "Gulf Air",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 2,
+            "pricePerPerson": 44777,
+            "departureDate": "2027-02-11T00:00:00.000",
+            "returnDate": "2027-02-21T00:00:00.000"
           }
         ]
       }
