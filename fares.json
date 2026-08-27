@@ -1,21 +1,21 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-26T02:42:22.490406Z",
+  "generatedAt": "2026-08-27T11:36:43.625814Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-26T02:42:20.841160",
+      "fetchedAt": "2026-08-27T11:36:41.796101",
       "source": "aviasales",
       "byMonth": {
         "9": [
           {
-            "airline": "Air Arabia",
-            "tier": "lowCost",
+            "airline": "Saudia",
+            "tier": "fullService",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 41781,
-            "departureDate": "2026-09-18T00:00:00.000",
-            "returnDate": "2026-09-20T00:00:00.000"
+            "pricePerPerson": 39905,
+            "departureDate": "2026-09-09T00:00:00.000",
+            "returnDate": "2026-09-18T00:00:00.000"
           }
         ],
         "12": [
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-26T02:42:21.119587",
+      "fetchedAt": "2026-08-27T11:36:42.042979",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -64,18 +64,29 @@
             "tier": "fullService",
             "stops": 1,
             "month": 10,
-            "pricePerPerson": 31407,
-            "departureDate": "2026-10-11T00:00:00.000",
-            "returnDate": "2026-10-25T00:00:00.000"
+            "pricePerPerson": 31480,
+            "departureDate": "2026-10-09T00:00:00.000",
+            "returnDate": "2026-10-23T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-08-26T02:42:21.221933",
+      "fetchedAt": "2026-08-27T11:36:42.147439",
       "source": "aviasales",
       "byMonth": {
+        "8": [
+          {
+            "airline": "IndiGo",
+            "tier": "lowCost",
+            "stops": 0,
+            "month": 8,
+            "pricePerPerson": 71011,
+            "departureDate": "2026-08-27T00:00:00.000",
+            "returnDate": "2026-08-29T00:00:00.000"
+          }
+        ],
         "9": [
           {
             "airline": "OV",
@@ -91,7 +102,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-26T02:42:21.429648",
+      "fetchedAt": "2026-08-27T11:36:42.355053",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -109,7 +120,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-26T02:42:21.530450",
+      "fetchedAt": "2026-08-27T11:36:42.551393",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -127,7 +138,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-26T02:42:22.075571",
+      "fetchedAt": "2026-08-27T11:36:43.165592",
       "source": "aviasales",
       "byMonth": {
         "8": [
