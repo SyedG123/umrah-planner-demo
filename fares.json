@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-08-27T11:36:43.625814Z",
+  "generatedAt": "2026-08-28T13:01:11.059957Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-08-27T11:36:41.796101",
+      "fetchedAt": "2026-08-28T13:01:08.995114",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -13,7 +13,7 @@
             "tier": "fullService",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 39905,
+            "pricePerPerson": 39894,
             "departureDate": "2026-09-09T00:00:00.000",
             "returnDate": "2026-09-18T00:00:00.000"
           }
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-08-27T11:36:42.042979",
+      "fetchedAt": "2026-08-28T13:01:09.305011",
       "source": "aviasales",
       "byMonth": {
         "8": [
@@ -68,25 +68,25 @@
             "departureDate": "2026-10-09T00:00:00.000",
             "returnDate": "2026-10-23T00:00:00.000"
           }
+        ],
+        "1": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 1,
+            "pricePerPerson": 25660,
+            "departureDate": "2027-01-18T00:00:00.000",
+            "returnDate": "2027-01-23T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-08-27T11:36:42.147439",
+      "fetchedAt": "2026-08-28T13:01:09.405727",
       "source": "aviasales",
       "byMonth": {
-        "8": [
-          {
-            "airline": "IndiGo",
-            "tier": "lowCost",
-            "stops": 0,
-            "month": 8,
-            "pricePerPerson": 71011,
-            "departureDate": "2026-08-27T00:00:00.000",
-            "returnDate": "2026-08-29T00:00:00.000"
-          }
-        ],
         "9": [
           {
             "airline": "OV",
@@ -102,7 +102,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-08-27T11:36:42.355053",
+      "fetchedAt": "2026-08-28T13:01:09.614657",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -120,7 +120,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-08-27T11:36:42.551393",
+      "fetchedAt": "2026-08-28T13:01:09.821411",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -138,7 +138,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-08-27T11:36:43.165592",
+      "fetchedAt": "2026-08-28T13:01:10.535593",
       "source": "aviasales",
       "byMonth": {
         "8": [
