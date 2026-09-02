@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-01T06:21:08.905705Z",
+  "generatedAt": "2026-09-02T06:00:28.901688Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-01T06:21:07.183221",
+      "fetchedAt": "2026-09-02T06:00:26.782412",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -18,15 +18,15 @@
             "returnDate": "2026-09-24T00:00:00.000"
           }
         ],
-        "12": [
+        "11": [
           {
-            "airline": "Gulf Air",
+            "airline": "Saudia",
             "tier": "fullService",
             "stops": 1,
-            "month": 12,
-            "pricePerPerson": 38686,
-            "departureDate": "2026-12-10T00:00:00.000",
-            "returnDate": "2027-01-22T00:00:00.000"
+            "month": 11,
+            "pricePerPerson": 31636,
+            "departureDate": "2026-11-01T00:00:00.000",
+            "returnDate": "2026-11-21T00:00:00.000"
           }
         ],
         "1": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-01T06:21:07.675137",
+      "fetchedAt": "2026-09-02T06:00:27.151159",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -53,9 +53,9 @@
             "tier": "fullService",
             "stops": 1,
             "month": 9,
-            "pricePerPerson": 32912,
-            "departureDate": "2026-09-22T00:00:00.000",
-            "returnDate": "2026-11-20T00:00:00.000"
+            "pricePerPerson": 36094,
+            "departureDate": "2026-09-09T00:00:00.000",
+            "returnDate": "2026-09-25T00:00:00.000"
           }
         ],
         "10": [
@@ -105,26 +105,8 @@
       }
     },
     {
-      "origin": "hyderabad",
-      "fetchedAt": "2026-09-01T06:21:07.840725",
-      "source": "aviasales",
-      "byMonth": {
-        "9": [
-          {
-            "airline": "OV",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 9,
-            "pricePerPerson": 43177,
-            "departureDate": "2026-09-02T00:00:00.000",
-            "returnDate": "2026-09-09T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
       "origin": "bengaluru",
-      "fetchedAt": "2026-09-01T06:21:08.232475",
+      "fetchedAt": "2026-09-02T06:00:27.742663",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -142,18 +124,18 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-01T06:21:08.777605",
+      "fetchedAt": "2026-09-02T06:00:28.773459",
       "source": "aviasales",
       "byMonth": {
-        "9": [
+        "10": [
           {
-            "airline": "IndiGo",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 9,
-            "pricePerPerson": 48813,
-            "departureDate": "2026-09-01T00:00:00.000",
-            "returnDate": "2026-09-19T00:00:00.000"
+            "airline": "OV",
+            "tier": "fullService",
+            "stops": 2,
+            "month": 10,
+            "pricePerPerson": 43176,
+            "departureDate": "2026-10-29T00:00:00.000",
+            "returnDate": "2026-11-26T00:00:00.000"
           }
         ],
         "11": [
