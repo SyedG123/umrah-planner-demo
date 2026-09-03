@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-02T06:00:28.901688Z",
+  "generatedAt": "2026-09-03T05:59:25.653821Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-02T06:00:26.782412",
+      "fetchedAt": "2026-09-03T05:59:24.641744",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -24,7 +24,7 @@
             "tier": "fullService",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 31636,
+            "pricePerPerson": 31464,
             "departureDate": "2026-11-01T00:00:00.000",
             "returnDate": "2026-11-21T00:00:00.000"
           }
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-02T06:00:27.151159",
+      "fetchedAt": "2026-09-03T05:59:24.873581",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -56,17 +56,6 @@
             "pricePerPerson": 36094,
             "departureDate": "2026-09-09T00:00:00.000",
             "returnDate": "2026-09-25T00:00:00.000"
-          }
-        ],
-        "10": [
-          {
-            "airline": "OV",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 10,
-            "pricePerPerson": 31480,
-            "departureDate": "2026-10-09T00:00:00.000",
-            "returnDate": "2026-10-23T00:00:00.000"
           }
         ],
         "11": [
@@ -106,7 +95,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-09-02T06:00:27.742663",
+      "fetchedAt": "2026-09-03T05:59:25.301716",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -123,8 +112,26 @@
       }
     },
     {
+      "origin": "kolkata",
+      "fetchedAt": "2026-09-03T05:59:25.360337",
+      "source": "aviasales",
+      "byMonth": {
+        "9": [
+          {
+            "airline": "Air India",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 9,
+            "pricePerPerson": 48917,
+            "departureDate": "2026-09-25T00:00:00.000",
+            "returnDate": "2026-10-10T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-02T06:00:28.773459",
+      "fetchedAt": "2026-09-03T05:59:25.555388",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -144,9 +151,9 @@
             "tier": "fullService",
             "stops": 0,
             "month": 11,
-            "pricePerPerson": 39838,
-            "departureDate": "2026-11-02T00:00:00.000",
-            "returnDate": "2026-11-16T00:00:00.000"
+            "pricePerPerson": 36594,
+            "departureDate": "2026-11-15T00:00:00.000",
+            "returnDate": "2026-12-14T00:00:00.000"
           }
         ]
       }
