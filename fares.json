@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-03T05:59:25.653821Z",
+  "generatedAt": "2026-09-04T06:06:34.665900Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-03T05:59:24.641744",
+      "fetchedAt": "2026-09-04T06:06:32.807912",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-03T05:59:24.873581",
+      "fetchedAt": "2026-09-04T06:06:33.254611",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -79,23 +79,12 @@
             "departureDate": "2026-12-30T00:00:00.000",
             "returnDate": "2027-01-12T00:00:00.000"
           }
-        ],
-        "1": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 25700,
-            "departureDate": "2027-01-18T00:00:00.000",
-            "returnDate": "2027-01-23T00:00:00.000"
-          }
         ]
       }
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-09-03T05:59:25.301716",
+      "fetchedAt": "2026-09-04T06:06:33.941343",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -113,7 +102,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-09-03T05:59:25.360337",
+      "fetchedAt": "2026-09-04T06:06:34.046206",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -131,18 +120,18 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-03T05:59:25.555388",
+      "fetchedAt": "2026-09-04T06:06:34.541365",
       "source": "aviasales",
       "byMonth": {
         "10": [
           {
-            "airline": "OV",
+            "airline": "Saudia",
             "tier": "fullService",
-            "stops": 2,
+            "stops": 0,
             "month": 10,
-            "pricePerPerson": 43176,
-            "departureDate": "2026-10-29T00:00:00.000",
-            "returnDate": "2026-11-26T00:00:00.000"
+            "pricePerPerson": 38476,
+            "departureDate": "2026-10-15T00:00:00.000",
+            "returnDate": "2026-11-13T00:00:00.000"
           }
         ],
         "11": [
@@ -151,8 +140,8 @@
             "tier": "fullService",
             "stops": 0,
             "month": 11,
-            "pricePerPerson": 36594,
-            "departureDate": "2026-11-15T00:00:00.000",
+            "pricePerPerson": 36218,
+            "departureDate": "2026-11-12T00:00:00.000",
             "returnDate": "2026-12-14T00:00:00.000"
           }
         ]
