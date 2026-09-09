@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-08T06:05:09.897753Z",
+  "generatedAt": "2026-09-09T06:09:21.560699Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-08T06:05:09.133629",
+      "fetchedAt": "2026-09-09T06:09:19.810314",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-08T06:05:09.302065",
+      "fetchedAt": "2026-09-09T06:09:20.226961",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -106,7 +106,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-09-08T06:05:09.377241",
+      "fetchedAt": "2026-09-09T06:09:20.332016",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -124,7 +124,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-09-08T06:05:09.582681",
+      "fetchedAt": "2026-09-09T06:09:20.758843",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -142,7 +142,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-09-08T06:05:09.642756",
+      "fetchedAt": "2026-09-09T06:09:20.951561",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -160,7 +160,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-08T06:05:09.836667",
+      "fetchedAt": "2026-09-09T06:09:21.361134",
       "source": "aviasales",
       "byMonth": {
         "10": [
