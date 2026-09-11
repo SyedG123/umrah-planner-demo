@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-10T06:09:06.635078Z",
+  "generatedAt": "2026-09-11T06:11:32.696351Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-10T06:09:04.685764",
+      "fetchedAt": "2026-09-11T06:11:31.923343",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-10T06:09:05.086168",
+      "fetchedAt": "2026-09-11T06:11:32.150686",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -71,13 +71,24 @@
         ],
         "11": [
           {
-            "airline": "OV",
-            "tier": "fullService",
+            "airline": "flyadeal",
+            "tier": "lowCost",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 30994,
-            "departureDate": "2026-11-27T00:00:00.000",
-            "returnDate": "2026-12-06T00:00:00.000"
+            "pricePerPerson": 28605,
+            "departureDate": "2026-11-12T00:00:00.000",
+            "returnDate": "2026-11-26T00:00:00.000"
+          }
+        ],
+        "12": [
+          {
+            "airline": "RJ",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 12,
+            "pricePerPerson": 34691,
+            "departureDate": "2026-12-01T00:00:00.000",
+            "returnDate": "2026-12-20T00:00:00.000"
           }
         ],
         "1": [
@@ -95,7 +106,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-09-10T06:09:05.326218",
+      "fetchedAt": "2026-09-11T06:11:32.209886",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -104,7 +115,7 @@
             "tier": "fullService",
             "stops": 1,
             "month": 10,
-            "pricePerPerson": 37871,
+            "pricePerPerson": 38020,
             "departureDate": "2026-10-10T00:00:00.000",
             "returnDate": "2026-10-22T00:00:00.000"
           }
@@ -126,7 +137,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 47395,
+            "pricePerPerson": 47582,
             "departureDate": "2026-12-01T00:00:00.000",
             "returnDate": "2026-12-20T00:00:00.000"
           }
@@ -135,7 +146,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-09-10T06:09:05.798585",
+      "fetchedAt": "2026-09-11T06:11:32.405050",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -153,7 +164,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-09-10T06:09:05.909735",
+      "fetchedAt": "2026-09-11T06:11:32.456234",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -166,34 +177,45 @@
             "departureDate": "2026-09-23T00:00:00.000",
             "returnDate": "2026-10-08T00:00:00.000"
           }
+        ],
+        "10": [
+          {
+            "airline": "Air India",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 10,
+            "pricePerPerson": 60789,
+            "departureDate": "2026-10-15T00:00:00.000",
+            "returnDate": "2026-10-15T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-10T06:09:06.405132",
+      "fetchedAt": "2026-09-11T06:11:32.638521",
       "source": "aviasales",
       "byMonth": {
         "10": [
           {
-            "airline": "Saudia",
-            "tier": "fullService",
-            "stops": 0,
+            "airline": "Air India Express",
+            "tier": "lowCost",
+            "stops": 2,
             "month": 10,
-            "pricePerPerson": 38476,
-            "departureDate": "2026-10-15T00:00:00.000",
-            "returnDate": "2026-11-13T00:00:00.000"
+            "pricePerPerson": 41467,
+            "departureDate": "2026-10-04T00:00:00.000",
+            "returnDate": "2026-10-05T00:00:00.000"
           }
         ],
         "11": [
           {
-            "airline": "Saudia",
+            "airline": "OV",
             "tier": "fullService",
-            "stops": 0,
+            "stops": 1,
             "month": 11,
-            "pricePerPerson": 36218,
-            "departureDate": "2026-11-12T00:00:00.000",
-            "returnDate": "2026-12-14T00:00:00.000"
+            "pricePerPerson": 39660,
+            "departureDate": "2026-11-02T00:00:00.000",
+            "returnDate": "2026-11-16T00:00:00.000"
           }
         ]
       }
