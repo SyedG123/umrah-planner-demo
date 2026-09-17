@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-16T06:14:25.550400Z",
+  "generatedAt": "2026-09-17T06:15:56.073610Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-16T06:14:23.553741",
+      "fetchedAt": "2026-09-17T06:15:55.020644",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-16T06:14:23.775876",
+      "fetchedAt": "2026-09-17T06:15:55.306648",
       "source": "aviasales",
       "byMonth": {
         "9": [
@@ -116,37 +116,8 @@
       }
     },
     {
-      "origin": "hyderabad",
-      "fetchedAt": "2026-09-16T06:14:23.865713",
-      "source": "aviasales",
-      "byMonth": {
-        "10": [
-          {
-            "airline": "Gulf Air",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 10,
-            "pricePerPerson": 38020,
-            "departureDate": "2026-10-10T00:00:00.000",
-            "returnDate": "2026-10-22T00:00:00.000"
-          }
-        ],
-        "12": [
-          {
-            "airline": "flynas",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 12,
-            "pricePerPerson": 47582,
-            "departureDate": "2026-12-01T00:00:00.000",
-            "returnDate": "2026-12-20T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
       "origin": "kolkata",
-      "fetchedAt": "2026-09-16T06:14:24.778869",
+      "fetchedAt": "2026-09-17T06:15:55.800095",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -164,20 +135,9 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-16T06:14:25.352916",
+      "fetchedAt": "2026-09-17T06:15:56.019066",
       "source": "aviasales",
       "byMonth": {
-        "9": [
-          {
-            "airline": "IndiGo",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 9,
-            "pricePerPerson": 47789,
-            "departureDate": "2026-09-16T00:00:00.000",
-            "returnDate": "2026-09-17T00:00:00.000"
-          }
-        ],
         "10": [
           {
             "airline": "OV",
