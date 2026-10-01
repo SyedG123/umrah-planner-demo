@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-09-30T06:55:13.564138Z",
+  "generatedAt": "2026-10-01T07:19:54.873781Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-09-30T06:55:12.753407",
+      "fetchedAt": "2026-10-01T07:19:52.586325",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-09-30T06:55:13.005113",
+      "fetchedAt": "2026-10-01T07:19:53.061001",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -58,24 +58,13 @@
             "returnDate": "2026-10-20T00:00:00.000"
           }
         ],
-        "11": [
-          {
-            "airline": "Jazeera Airways",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 11,
-            "pricePerPerson": 28564,
-            "departureDate": "2026-11-09T00:00:00.000",
-            "returnDate": "2026-11-23T00:00:00.000"
-          }
-        ],
         "12": [
           {
             "airline": "Gulf Air",
             "tier": "fullService",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 31750,
+            "pricePerPerson": 31751,
             "departureDate": "2026-12-30T00:00:00.000",
             "returnDate": "2027-02-06T00:00:00.000"
           }
@@ -95,7 +84,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-09-30T06:55:13.070171",
+      "fetchedAt": "2026-10-01T07:19:53.320117",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -104,7 +93,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 10,
-            "pricePerPerson": 30487,
+            "pricePerPerson": 30488,
             "departureDate": "2026-10-20T00:00:00.000",
             "returnDate": "2026-11-10T00:00:00.000"
           }
@@ -113,7 +102,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-09-30T06:55:13.122088",
+      "fetchedAt": "2026-10-01T07:19:53.558803",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -131,7 +120,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-09-30T06:55:13.397593",
+      "fetchedAt": "2026-10-01T07:19:54.444266",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -149,7 +138,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-09-30T06:55:13.455524",
+      "fetchedAt": "2026-10-01T07:19:54.654189",
       "source": "aviasales",
       "byMonth": {
         "10": [
