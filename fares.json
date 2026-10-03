@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-02T07:08:15.294709Z",
+  "generatedAt": "2026-10-03T06:41:25.892895Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-02T07:08:12.333645",
+      "fetchedAt": "2026-10-03T06:41:24.935455",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -35,7 +35,7 @@
             "tier": "fullService",
             "stops": 1,
             "month": 2,
-            "pricePerPerson": 39820,
+            "pricePerPerson": 39778,
             "departureDate": "2027-02-05T00:00:00.000",
             "returnDate": "2027-03-15T00:00:00.000"
           }
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-02T07:08:12.729206",
+      "fetchedAt": "2026-10-03T06:41:25.084882",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -95,7 +95,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-02T07:08:13.136199",
+      "fetchedAt": "2026-10-03T06:41:25.137391",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -113,7 +113,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-02T07:08:14.782482",
+      "fetchedAt": "2026-10-03T06:41:25.753295",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -131,7 +131,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-10-02T07:08:15.008420",
+      "fetchedAt": "2026-10-03T06:41:25.838061",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -154,6 +154,17 @@
             "pricePerPerson": 52696,
             "departureDate": "2027-03-15T00:00:00.000",
             "returnDate": "2027-03-30T00:00:00.000"
+          }
+        ],
+        "6": [
+          {
+            "airline": "Air India",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 6,
+            "pricePerPerson": 46588,
+            "departureDate": "2027-06-28T00:00:00.000",
+            "returnDate": "2027-06-30T00:00:00.000"
           }
         ]
       }
