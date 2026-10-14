@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-13T07:53:02.976027Z",
+  "generatedAt": "2026-10-14T06:19:11.028650Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-13T07:53:01.743237",
+      "fetchedAt": "2026-10-14T06:19:08.971964",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-13T07:53:02.069001",
+      "fetchedAt": "2026-10-14T06:19:09.307413",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -73,7 +73,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-13T07:53:02.134327",
+      "fetchedAt": "2026-10-14T06:19:09.395481",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -86,23 +86,12 @@
             "departureDate": "2026-10-20T00:00:00.000",
             "returnDate": "2026-11-10T00:00:00.000"
           }
-        ],
-        "1": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 33554,
-            "departureDate": "2027-01-06T00:00:00.000",
-            "returnDate": "2027-01-18T00:00:00.000"
-          }
         ]
       }
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-10-13T07:53:02.596634",
+      "fetchedAt": "2026-10-14T06:19:10.487719",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -120,7 +109,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-13T07:53:02.669142",
+      "fetchedAt": "2026-10-14T06:19:10.700494",
       "source": "aviasales",
       "byMonth": {
         "10": [
