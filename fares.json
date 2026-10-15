@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-14T06:19:11.028650Z",
+  "generatedAt": "2026-10-15T06:00:42.105635Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-14T06:19:08.971964",
+      "fetchedAt": "2026-10-15T06:00:34.666574",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-14T06:19:09.307413",
+      "fetchedAt": "2026-10-15T06:00:35.143682",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -56,6 +56,17 @@
             "pricePerPerson": 27198,
             "departureDate": "2026-10-20T00:00:00.000",
             "returnDate": "2026-10-27T00:00:00.000"
+          }
+        ],
+        "11": [
+          {
+            "airline": "Gulf Air",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 11,
+            "pricePerPerson": 31656,
+            "departureDate": "2026-11-11T00:00:00.000",
+            "returnDate": "2026-11-25T00:00:00.000"
           }
         ],
         "12": [
@@ -73,7 +84,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-14T06:19:09.395481",
+      "fetchedAt": "2026-10-15T06:00:36.349430",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -90,37 +101,19 @@
       }
     },
     {
-      "origin": "kolkata",
-      "fetchedAt": "2026-10-14T06:19:10.487719",
+      "origin": "chennai",
+      "fetchedAt": "2026-10-15T06:00:37.232732",
       "source": "aviasales",
       "byMonth": {
-        "10": [
-          {
-            "airline": "Air India",
-            "tier": "fullService",
-            "stops": 2,
-            "month": 10,
-            "pricePerPerson": 49270,
-            "departureDate": "2026-10-15T00:00:00.000",
-            "returnDate": "2026-10-23T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
-      "origin": "kochi",
-      "fetchedAt": "2026-10-14T06:19:10.700494",
-      "source": "aviasales",
-      "byMonth": {
-        "10": [
+        "11": [
           {
             "airline": "Air India",
             "tier": "fullService",
             "stops": 1,
-            "month": 10,
-            "pricePerPerson": 43838,
-            "departureDate": "2026-10-14T00:00:00.000",
-            "returnDate": "2026-10-15T00:00:00.000"
+            "month": 11,
+            "pricePerPerson": 45497,
+            "departureDate": "2026-11-21T00:00:00.000",
+            "returnDate": "2026-12-05T00:00:00.000"
           }
         ]
       }
