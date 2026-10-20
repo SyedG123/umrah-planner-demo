@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-19T06:23:16.552144Z",
+  "generatedAt": "2026-10-20T06:11:15.751207Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-19T06:23:14.016845",
+      "fetchedAt": "2026-10-20T06:11:13.987410",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-19T06:23:14.478232",
+      "fetchedAt": "2026-10-20T06:11:14.304834",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -86,16 +86,27 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 3,
-            "pricePerPerson": 45553,
+            "pricePerPerson": 45589,
             "departureDate": "2027-03-05T00:00:00.000",
             "returnDate": "2027-03-11T00:00:00.000"
+          }
+        ],
+        "4": [
+          {
+            "airline": "Jazeera Airways",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 4,
+            "pricePerPerson": 39260,
+            "departureDate": "2027-04-20T00:00:00.000",
+            "returnDate": "2027-05-05T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-19T06:23:14.719272",
+      "fetchedAt": "2026-10-20T06:11:14.489651",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -113,7 +124,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-10-19T06:23:14.992083",
+      "fetchedAt": "2026-10-20T06:11:14.674107",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -131,7 +142,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-19T06:23:16.068178",
+      "fetchedAt": "2026-10-20T06:11:15.378449",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -149,7 +160,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-10-19T06:23:16.230936",
+      "fetchedAt": "2026-10-20T06:11:15.564819",
       "source": "aviasales",
       "byMonth": {
         "12": [
