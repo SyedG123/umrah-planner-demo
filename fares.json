@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-21T06:09:26.351803Z",
+  "generatedAt": "2026-10-22T06:14:12.503552Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-21T06:09:25.144176",
+      "fetchedAt": "2026-10-22T06:14:08.805747",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -55,7 +55,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-21T06:09:25.449061",
+      "fetchedAt": "2026-10-22T06:14:10.903580",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -95,7 +95,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-21T06:09:25.526651",
+      "fetchedAt": "2026-10-22T06:14:11.016446",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -108,30 +108,23 @@
             "departureDate": "2026-10-22T00:00:00.000",
             "returnDate": "2026-10-31T00:00:00.000"
           }
-        ]
-      }
-    },
-    {
-      "origin": "chennai",
-      "fetchedAt": "2026-10-21T06:09:25.654364",
-      "source": "aviasales",
-      "byMonth": {
-        "11": [
+        ],
+        "12": [
           {
-            "airline": "Air India",
+            "airline": "Gulf Air",
             "tier": "fullService",
             "stops": 1,
-            "month": 11,
-            "pricePerPerson": 45497,
-            "departureDate": "2026-11-21T00:00:00.000",
-            "returnDate": "2026-12-05T00:00:00.000"
+            "month": 12,
+            "pricePerPerson": 41498,
+            "departureDate": "2026-12-20T00:00:00.000",
+            "returnDate": "2027-01-03T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-21T06:09:26.196505",
+      "fetchedAt": "2026-10-22T06:14:12.213704",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -149,7 +142,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-10-21T06:09:26.273689",
+      "fetchedAt": "2026-10-22T06:14:12.322574",
       "source": "aviasales",
       "byMonth": {
         "12": [
