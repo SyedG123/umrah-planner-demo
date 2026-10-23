@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-22T06:14:12.503552Z",
+  "generatedAt": "2026-10-23T06:08:34.796074Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-22T06:14:08.805747",
+      "fetchedAt": "2026-10-23T06:08:32.737698",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -29,33 +29,22 @@
             "returnDate": "2026-11-11T00:00:00.000"
           }
         ],
-        "1": [
-          {
-            "airline": "Kuwait Airways",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 39466,
-            "departureDate": "2027-01-01T00:00:00.000",
-            "returnDate": "2027-02-01T00:00:00.000"
-          }
-        ],
         "2": [
           {
             "airline": "Gulf Air",
             "tier": "fullService",
             "stops": 1,
             "month": 2,
-            "pricePerPerson": 38289,
-            "departureDate": "2027-02-04T00:00:00.000",
-            "returnDate": "2027-03-14T00:00:00.000"
+            "pricePerPerson": 39340,
+            "departureDate": "2027-02-03T00:00:00.000",
+            "returnDate": "2027-03-13T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-22T06:14:10.903580",
+      "fetchedAt": "2026-10-23T06:08:32.986311",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -95,20 +84,9 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-22T06:14:11.016446",
+      "fetchedAt": "2026-10-23T06:08:33.075754",
       "source": "aviasales",
       "byMonth": {
-        "10": [
-          {
-            "airline": "Air India",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 10,
-            "pricePerPerson": 45817,
-            "departureDate": "2026-10-22T00:00:00.000",
-            "returnDate": "2026-10-31T00:00:00.000"
-          }
-        ],
         "12": [
           {
             "airline": "Gulf Air",
@@ -124,7 +102,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-22T06:14:12.213704",
+      "fetchedAt": "2026-10-23T06:08:34.411405",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -136,24 +114,6 @@
             "pricePerPerson": 43105,
             "departureDate": "2026-10-23T00:00:00.000",
             "returnDate": "2026-10-28T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
-      "origin": "lucknow",
-      "fetchedAt": "2026-10-22T06:14:12.322574",
-      "source": "aviasales",
-      "byMonth": {
-        "12": [
-          {
-            "airline": "flynas",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 12,
-            "pricePerPerson": 47030,
-            "departureDate": "2026-12-02T00:00:00.000",
-            "returnDate": "2027-01-10T00:00:00.000"
           }
         ]
       }
