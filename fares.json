@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-26T06:31:53.119787Z",
+  "generatedAt": "2026-10-27T06:29:05.967524Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-26T06:31:52.368785",
+      "fetchedAt": "2026-10-27T06:29:04.171947",
       "source": "aviasales",
       "byMonth": {
         "10": [
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-26T06:31:52.512212",
+      "fetchedAt": "2026-10-27T06:29:04.447398",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -47,22 +47,22 @@
             "returnDate": "2026-11-25T00:00:00.000"
           }
         ],
-        "4": [
+        "12": [
           {
-            "airline": "Jazeera Airways",
-            "tier": "lowCost",
+            "airline": "OV",
+            "tier": "fullService",
             "stops": 1,
-            "month": 4,
-            "pricePerPerson": 39260,
-            "departureDate": "2027-04-20T00:00:00.000",
-            "returnDate": "2027-05-05T00:00:00.000"
+            "month": 12,
+            "pricePerPerson": 32733,
+            "departureDate": "2026-12-01T00:00:00.000",
+            "returnDate": "2026-12-31T00:00:00.000"
           }
         ]
       }
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-10-26T06:31:52.560725",
+      "fetchedAt": "2026-10-27T06:29:04.547488",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -80,7 +80,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-10-26T06:31:52.733470",
+      "fetchedAt": "2026-10-27T06:29:05.112024",
       "source": "aviasales",
       "byMonth": {
         "6": [
@@ -98,7 +98,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-10-26T06:31:53.044800",
+      "fetchedAt": "2026-10-27T06:29:05.755852",
       "source": "aviasales",
       "byMonth": {
         "10": [
