@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-10-30T07:21:26.380614Z",
+  "generatedAt": "2026-10-31T07:09:47.252016Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-10-30T07:21:25.096532",
+      "fetchedAt": "2026-10-31T07:09:44.971736",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -17,12 +17,23 @@
             "departureDate": "2026-12-25T00:00:00.000",
             "returnDate": "2027-01-04T00:00:00.000"
           }
+        ],
+        "3": [
+          {
+            "airline": "Gulf Air",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 3,
+            "pricePerPerson": 38389,
+            "departureDate": "2027-03-31T00:00:00.000",
+            "returnDate": "2027-04-20T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-10-30T07:21:25.470299",
+      "fetchedAt": "2026-10-31T07:09:45.543876",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -35,12 +46,23 @@
             "departureDate": "2026-12-01T00:00:00.000",
             "returnDate": "2026-12-31T00:00:00.000"
           }
+        ],
+        "1": [
+          {
+            "airline": "Cheapest available",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 1,
+            "pricePerPerson": 37350,
+            "departureDate": "2027-01-15T00:00:00.000",
+            "returnDate": "2027-01-22T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-10-30T07:21:25.780713",
+      "fetchedAt": "2026-10-31T07:09:46.081564",
       "source": "aviasales",
       "byMonth": {
         "1": [
@@ -69,7 +91,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-10-30T07:21:25.979411",
+      "fetchedAt": "2026-10-31T07:09:46.723025",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -87,7 +109,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-10-30T07:21:26.100478",
+      "fetchedAt": "2026-10-31T07:09:46.890668",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -96,7 +118,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 62336,
+            "pricePerPerson": 61003,
             "departureDate": "2026-11-01T00:00:00.000",
             "returnDate": "2026-11-16T00:00:00.000"
           }
