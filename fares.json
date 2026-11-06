@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-05T08:00:28.866189Z",
+  "generatedAt": "2026-11-06T08:04:28.416114Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-05T08:00:18.957585",
+      "fetchedAt": "2026-11-06T08:04:27.151660",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -16,6 +16,17 @@
             "pricePerPerson": 44939,
             "departureDate": "2026-11-26T00:00:00.000",
             "returnDate": "2026-12-03T00:00:00.000"
+          }
+        ],
+        "12": [
+          {
+            "airline": "Gulf Air",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 12,
+            "pricePerPerson": 48321,
+            "departureDate": "2026-12-22T00:00:00.000",
+            "returnDate": "2026-12-29T00:00:00.000"
           }
         ],
         "3": [
@@ -33,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-05T08:00:20.979770",
+      "fetchedAt": "2026-11-06T08:04:27.459689",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -62,7 +73,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-11-05T08:00:24.443238",
+      "fetchedAt": "2026-11-06T08:04:27.697095",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -101,35 +112,17 @@
       }
     },
     {
-      "origin": "bengaluru",
-      "fetchedAt": "2026-11-05T08:00:24.847318",
-      "source": "aviasales",
-      "byMonth": {
-        "1": [
-          {
-            "airline": "Air India",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 49111,
-            "departureDate": "2027-01-16T00:00:00.000",
-            "returnDate": "2027-01-29T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
       "origin": "lucknow",
-      "fetchedAt": "2026-11-05T08:00:27.379309",
+      "fetchedAt": "2026-11-06T08:04:28.162427",
       "source": "aviasales",
       "byMonth": {
         "11": [
           {
-            "airline": "Cheapest available",
-            "tier": "lowCost",
+            "airline": "Oman Air",
+            "tier": "fullService",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 64125,
+            "pricePerPerson": 64137,
             "departureDate": "2026-11-08T00:00:00.000",
             "returnDate": "2026-11-15T00:00:00.000"
           }
