@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-10T08:32:07.779778Z",
+  "generatedAt": "2026-11-11T07:53:17.772913Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-10T08:32:06.112770",
+      "fetchedAt": "2026-11-11T07:53:15.716072",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-10T08:32:06.452360",
+      "fetchedAt": "2026-11-11T07:53:16.138472",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -94,8 +94,26 @@
       }
     },
     {
+      "origin": "hyderabad",
+      "fetchedAt": "2026-11-11T07:53:16.338705",
+      "source": "aviasales",
+      "byMonth": {
+        "11": [
+          {
+            "airline": "Jazeera Airways",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 11,
+            "pricePerPerson": 55542,
+            "departureDate": "2026-11-18T00:00:00.000",
+            "returnDate": "2026-11-28T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
       "origin": "chennai",
-      "fetchedAt": "2026-11-10T08:32:06.768319",
+      "fetchedAt": "2026-11-11T07:53:16.530928",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -113,7 +131,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-11-10T08:32:07.020730",
+      "fetchedAt": "2026-11-11T07:53:17.008500",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -122,7 +140,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 53556,
+            "pricePerPerson": 53631,
             "departureDate": "2026-12-30T00:00:00.000",
             "returnDate": "2027-01-29T00:00:00.000"
           }
@@ -131,7 +149,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-11-10T08:32:07.219845",
+      "fetchedAt": "2026-11-11T07:53:17.254458",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -149,16 +167,16 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-11-10T08:32:07.407443",
+      "fetchedAt": "2026-11-11T07:53:17.469752",
       "source": "aviasales",
       "byMonth": {
         "11": [
           {
-            "airline": "Air India",
-            "tier": "fullService",
+            "airline": "Cheapest available",
+            "tier": "lowCost",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 51461,
+            "pricePerPerson": 52060,
             "departureDate": "2026-11-16T00:00:00.000",
             "returnDate": "2026-11-23T00:00:00.000"
           }
