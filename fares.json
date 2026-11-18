@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-17T09:22:54.024431Z",
+  "generatedAt": "2026-11-18T08:42:21.543189Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-17T09:22:51.085231",
+      "fetchedAt": "2026-11-18T08:42:17.194960",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -24,7 +24,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 49896,
+            "pricePerPerson": 49636,
             "departureDate": "2026-12-15T00:00:00.000",
             "returnDate": "2026-12-31T00:00:00.000"
           }
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-17T09:22:51.419679",
+      "fetchedAt": "2026-11-18T08:42:17.792873",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -84,20 +84,9 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-11-17T09:22:51.654255",
+      "fetchedAt": "2026-11-18T08:42:18.174349",
       "source": "aviasales",
       "byMonth": {
-        "11": [
-          {
-            "airline": "Jazeera Airways",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 11,
-            "pricePerPerson": 55542,
-            "departureDate": "2026-11-18T00:00:00.000",
-            "returnDate": "2026-11-28T00:00:00.000"
-          }
-        ],
         "12": [
           {
             "airline": "Air India Express",
@@ -108,12 +97,23 @@
             "departureDate": "2026-12-01T00:00:00.000",
             "returnDate": "2026-12-20T00:00:00.000"
           }
+        ],
+        "1": [
+          {
+            "airline": "Air India Express",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 1,
+            "pricePerPerson": 44891,
+            "departureDate": "2027-01-07T00:00:00.000",
+            "returnDate": "2027-02-02T00:00:00.000"
+          }
         ]
       }
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-11-17T09:22:52.202013",
+      "fetchedAt": "2026-11-18T08:42:19.292312",
       "source": "aviasales",
       "byMonth": {
         "12": [
