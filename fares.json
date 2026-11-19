@@ -1,21 +1,21 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-18T08:42:21.543189Z",
+  "generatedAt": "2026-11-19T08:57:34.524571Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-18T08:42:17.194960",
+      "fetchedAt": "2026-11-19T08:57:32.709495",
       "source": "aviasales",
       "byMonth": {
         "11": [
           {
-            "airline": "Air India Express",
-            "tier": "lowCost",
+            "airline": "Air India",
+            "tier": "fullService",
             "stops": 1,
             "month": 11,
-            "pricePerPerson": 48642,
-            "departureDate": "2026-11-24T00:00:00.000",
-            "returnDate": "2026-12-08T00:00:00.000"
+            "pricePerPerson": 53199,
+            "departureDate": "2026-11-27T00:00:00.000",
+            "returnDate": "2026-12-11T00:00:00.000"
           }
         ],
         "12": [
@@ -24,7 +24,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 49636,
+            "pricePerPerson": 49828,
             "departureDate": "2026-12-15T00:00:00.000",
             "returnDate": "2026-12-31T00:00:00.000"
           }
@@ -33,7 +33,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-18T08:42:17.792873",
+      "fetchedAt": "2026-11-19T08:57:33.144622",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -84,7 +84,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-11-18T08:42:18.174349",
+      "fetchedAt": "2026-11-19T08:57:33.329279",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -107,24 +107,6 @@
             "pricePerPerson": 44891,
             "departureDate": "2027-01-07T00:00:00.000",
             "returnDate": "2027-02-02T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
-      "origin": "bengaluru",
-      "fetchedAt": "2026-11-18T08:42:19.292312",
-      "source": "aviasales",
-      "byMonth": {
-        "12": [
-          {
-            "airline": "Air India Express",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 12,
-            "pricePerPerson": 47865,
-            "departureDate": "2026-12-16T00:00:00.000",
-            "returnDate": "2027-01-02T00:00:00.000"
           }
         ]
       }
