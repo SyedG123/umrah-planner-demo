@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-20T08:44:25.036872Z",
+  "generatedAt": "2026-11-21T08:25:59.007244Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-20T08:44:23.711188",
+      "fetchedAt": "2026-11-21T08:25:57.424971",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -13,7 +13,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 12,
-            "pricePerPerson": 49254,
+            "pricePerPerson": 49468,
             "departureDate": "2026-12-15T00:00:00.000",
             "returnDate": "2026-12-31T00:00:00.000"
           }
@@ -22,20 +22,9 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-20T08:44:24.006355",
+      "fetchedAt": "2026-11-21T08:25:57.703849",
       "source": "aviasales",
       "byMonth": {
-        "11": [
-          {
-            "airline": "Gulf Air",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 11,
-            "pricePerPerson": 58688,
-            "departureDate": "2026-11-20T00:00:00.000",
-            "returnDate": "2026-12-19T00:00:00.000"
-          }
-        ],
         "12": [
           {
             "airline": "Kuwait Airways",
@@ -45,17 +34,6 @@
             "pricePerPerson": 40911,
             "departureDate": "2026-12-15T00:00:00.000",
             "returnDate": "2026-12-22T00:00:00.000"
-          }
-        ],
-        "1": [
-          {
-            "airline": "OV",
-            "tier": "fullService",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 38555,
-            "departureDate": "2027-01-07T00:00:00.000",
-            "returnDate": "2027-02-05T00:00:00.000"
           }
         ],
         "3": [
@@ -73,7 +51,7 @@
     },
     {
       "origin": "hyderabad",
-      "fetchedAt": "2026-11-20T08:44:24.193344",
+      "fetchedAt": "2026-11-21T08:25:57.827302",
       "source": "aviasales",
       "byMonth": {
         "1": [
@@ -91,7 +69,7 @@
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-11-20T08:44:24.314388",
+      "fetchedAt": "2026-11-21T08:25:57.946956",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -109,7 +87,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-11-20T08:44:24.405913",
+      "fetchedAt": "2026-11-21T08:25:58.059942",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -118,7 +96,7 @@
             "tier": "lowCost",
             "stops": 1,
             "month": 4,
-            "pricePerPerson": 29210,
+            "pricePerPerson": 29337,
             "departureDate": "2027-04-13T00:00:00.000",
             "returnDate": "2027-04-23T00:00:00.000"
           }
@@ -127,7 +105,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-11-20T08:44:24.522812",
+      "fetchedAt": "2026-11-21T08:25:58.328389",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -145,7 +123,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-11-20T08:44:24.664013",
+      "fetchedAt": "2026-11-21T08:25:58.427372",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -154,9 +132,27 @@
             "tier": "lowCost",
             "stops": 0,
             "month": 4,
-            "pricePerPerson": 32437,
+            "pricePerPerson": 32578,
             "departureDate": "2027-04-01T00:00:00.000",
             "returnDate": "2027-04-06T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
+      "origin": "lucknow",
+      "fetchedAt": "2026-11-21T08:25:58.727665",
+      "source": "aviasales",
+      "byMonth": {
+        "11": [
+          {
+            "airline": "Cheapest available",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 11,
+            "pricePerPerson": 68490,
+            "departureDate": "2026-11-26T00:00:00.000",
+            "returnDate": "2026-12-01T00:00:00.000"
           }
         ]
       }
