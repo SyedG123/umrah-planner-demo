@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-24T11:11:42.783781Z",
+  "generatedAt": "2026-11-25T09:59:14.612437Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-24T11:11:41.126308",
+      "fetchedAt": "2026-11-25T09:59:10.906774",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -44,9 +44,20 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-24T11:11:41.401586",
+      "fetchedAt": "2026-11-25T09:59:11.601704",
       "source": "aviasales",
       "byMonth": {
+        "12": [
+          {
+            "airline": "RJ",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 12,
+            "pricePerPerson": 36542,
+            "departureDate": "2026-12-15T00:00:00.000",
+            "returnDate": "2027-01-01T00:00:00.000"
+          }
+        ],
         "1": [
           {
             "airline": "RJ",
@@ -57,41 +68,12 @@
             "departureDate": "2027-01-25T00:00:00.000",
             "returnDate": "2027-02-11T00:00:00.000"
           }
-        ],
-        "12": [
-          {
-            "airline": "Cheapest available",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 12,
-            "pricePerPerson": 47661,
-            "departureDate": "2026-12-15T00:00:00.000",
-            "returnDate": "2027-01-02T00:00:00.000"
-          }
-        ]
-      }
-    },
-    {
-      "origin": "hyderabad",
-      "fetchedAt": "2026-11-24T11:11:41.593957",
-      "source": "aviasales",
-      "byMonth": {
-        "1": [
-          {
-            "airline": "Air India Express",
-            "tier": "lowCost",
-            "stops": 1,
-            "month": 1,
-            "pricePerPerson": 44891,
-            "departureDate": "2027-01-07T00:00:00.000",
-            "returnDate": "2027-02-02T00:00:00.000"
-          }
         ]
       }
     },
     {
       "origin": "chennai",
-      "fetchedAt": "2026-11-24T11:11:41.732980",
+      "fetchedAt": "2026-11-25T09:59:12.345242",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -109,7 +91,7 @@
     },
     {
       "origin": "bengaluru",
-      "fetchedAt": "2026-11-24T11:11:41.883609",
+      "fetchedAt": "2026-11-25T09:59:12.675419",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -127,7 +109,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-11-24T11:11:42.067753",
+      "fetchedAt": "2026-11-25T09:59:13.248543",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -156,7 +138,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-11-24T11:11:42.263813",
+      "fetchedAt": "2026-11-25T09:59:13.483574",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -174,29 +156,29 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-11-24T11:11:42.422211",
+      "fetchedAt": "2026-11-25T09:59:13.953744",
       "source": "aviasales",
       "byMonth": {
-        "12": [
+        "11": [
           {
-            "airline": "Air India Express",
+            "airline": "flydubai",
             "tier": "lowCost",
             "stops": 1,
-            "month": 12,
-            "pricePerPerson": 54987,
-            "departureDate": "2026-12-13T00:00:00.000",
-            "returnDate": "2027-01-02T00:00:00.000"
+            "month": 11,
+            "pricePerPerson": 68124,
+            "departureDate": "2026-11-26T00:00:00.000",
+            "returnDate": "2026-12-01T00:00:00.000"
           }
         ],
-        "11": [
+        "12": [
           {
             "airline": "Cheapest available",
             "tier": "lowCost",
             "stops": 1,
-            "month": 11,
-            "pricePerPerson": 68391,
-            "departureDate": "2026-11-26T00:00:00.000",
-            "returnDate": "2026-12-01T00:00:00.000"
+            "month": 12,
+            "pricePerPerson": 55207,
+            "departureDate": "2026-12-13T00:00:00.000",
+            "returnDate": "2027-01-02T00:00:00.000"
           }
         ]
       }
