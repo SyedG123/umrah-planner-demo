@@ -1,10 +1,10 @@
 {
   "schema": 1,
-  "generatedAt": "2026-11-27T09:48:43.395436Z",
+  "generatedAt": "2026-11-28T09:00:44.255116Z",
   "snapshots": [
     {
       "origin": "delhi",
-      "fetchedAt": "2026-11-27T09:48:41.751219",
+      "fetchedAt": "2026-11-28T09:00:18.754687",
       "source": "aviasales",
       "byMonth": {
         "11": [
@@ -44,7 +44,7 @@
     },
     {
       "origin": "mumbai",
-      "fetchedAt": "2026-11-27T09:48:42.329549",
+      "fetchedAt": "2026-11-28T09:00:24.714405",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -72,8 +72,26 @@
       }
     },
     {
+      "origin": "hyderabad",
+      "fetchedAt": "2026-11-28T09:00:25.585540",
+      "source": "aviasales",
+      "byMonth": {
+        "8": [
+          {
+            "airline": "Kuwait Airways",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 8,
+            "pricePerPerson": 39784,
+            "departureDate": "2027-08-16T00:00:00.000",
+            "returnDate": "2027-08-31T00:00:00.000"
+          }
+        ]
+      }
+    },
+    {
       "origin": "bengaluru",
-      "fetchedAt": "2026-11-27T09:48:42.707098",
+      "fetchedAt": "2026-11-28T09:00:33.141976",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -91,7 +109,7 @@
     },
     {
       "origin": "kolkata",
-      "fetchedAt": "2026-11-27T09:48:42.825632",
+      "fetchedAt": "2026-11-28T09:00:36.596874",
       "source": "aviasales",
       "byMonth": {
         "1": [
@@ -109,7 +127,7 @@
     },
     {
       "origin": "kochi",
-      "fetchedAt": "2026-11-27T09:48:42.940182",
+      "fetchedAt": "2026-11-28T09:00:41.098946",
       "source": "aviasales",
       "byMonth": {
         "4": [
@@ -127,7 +145,7 @@
     },
     {
       "origin": "lucknow",
-      "fetchedAt": "2026-11-27T09:48:43.084208",
+      "fetchedAt": "2026-11-28T09:00:41.667925",
       "source": "aviasales",
       "byMonth": {
         "12": [
@@ -150,6 +168,28 @@
             "pricePerPerson": 48559,
             "departureDate": "2027-01-17T00:00:00.000",
             "returnDate": "2027-02-01T00:00:00.000"
+          }
+        ],
+        "2": [
+          {
+            "airline": "OV",
+            "tier": "fullService",
+            "stops": 1,
+            "month": 2,
+            "pricePerPerson": 50067,
+            "departureDate": "2027-02-28T00:00:00.000",
+            "returnDate": "2027-03-30T00:00:00.000"
+          }
+        ],
+        "3": [
+          {
+            "airline": "IndiGo",
+            "tier": "lowCost",
+            "stops": 1,
+            "month": 3,
+            "pricePerPerson": 46261,
+            "departureDate": "2027-03-01T00:00:00.000",
+            "returnDate": "2027-03-30T00:00:00.000"
           }
         ]
       }
